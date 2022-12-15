@@ -1,2 +1,2 @@
 # PSO
-poweershell
+powershell
